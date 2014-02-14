@@ -1,0 +1,19 @@
+{
+  "name": "karma-jasmine",
+  "version": "0.1.5",
+  "homepage": "https://github.com/kaeff/karma-jasmine",
+  "authors": [
+    "Klaus Fl <kaeff@gmx.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "jasmine": "~2.0.0"
+  }
+}

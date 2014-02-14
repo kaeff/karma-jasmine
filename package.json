@@ -25,7 +25,8 @@
     "grunt-karma": "~0.4",
     "grunt-auto-release": "~0.0.2",
     "grunt-npm": "~0.0.2",
-    "grunt-bump": "~0.0.7"
+    "grunt-bump": "~0.0.7",
+    "bower": "~1.2.8"
   },
   "peerDependencies": {
     "karma": ">=0.9"
